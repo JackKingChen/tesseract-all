@@ -1,0 +1,13 @@
+*.sdf
+*.suo
+*.vcxproj.user
+*.opensdf
+build/obj
+build/obj/
+ipch
+ipch/
+Debug
+Debug/
+Release
+Release/
+
